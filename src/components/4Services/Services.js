@@ -2,7 +2,7 @@ import "./Services.css";
 
 export default function Services() {
     return(
-        <div>
+        <div className="portfolio-services-wrapper">
             <h1>Services</h1>
             <h2>Full-Stack Development</h2>
             <p>As a full-stack developer, I offer comprehensive web development services that cover both front-end and back-end development. I have experience working with various technologies and frameworks, allowing me to create dynamic and responsive web applications.</p>

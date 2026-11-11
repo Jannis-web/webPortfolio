@@ -1,0 +1,16 @@
+.portfolio-contact-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: #f8fafc;
+    font-family: 'inter', sans-serif;
+}
+
+
+.portfolio-form {
+    background-color: #ffffff;
+    padding:2.5rem;
+    border-radius: 20px;
+    box-shadow: 0px 4px 6px -12px rgba(0, 0, 0, 0.288);
+}
